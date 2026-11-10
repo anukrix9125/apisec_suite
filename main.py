@@ -1,5 +1,5 @@
 from core_cli import parse_arguments
-from parsers.swagger_parser import OpenAPIParser
+from parsers_swagger_parser import OpenAPIParser
 from core_executor import SecurityExecutor
 from reporters_markdown_reporter import MarkdownReporter
 
